@@ -15,7 +15,7 @@ TOUJOURS MAGNIFIQUE — IIS DEPLOYMENT
    Copy each command as a separate line. Use Notepad if RDP merges lines.
 
    New-Item -ItemType Directory -Path "C:\Sites\BusinessWebsites" -Force
-   & "C:\Program Files\Git\cmd\git.exe" clone --depth 1 --branch main https://github.com/webbloomlb-alt/toujours-magnifique.git "C:\Sites\BusinessWebsites\toujours-magnifique"
+   & "C:\Program Files\Git\cmd\git.exe" clone --depth 1 --branch main https://github.com/bilalbaddah23/toujours-magnifique.git "C:\Sites\BusinessWebsites\toujours-magnifique"
    powershell.exe -NoProfile -ExecutionPolicy Bypass -File "C:\Sites\BusinessWebsites\toujours-magnifique\deployment\Install-IIS.ps1" -HostName "toujours-magnifique.duckdns.org"
 
    The installer uses only this site's own IIS application pool and publish folder.
