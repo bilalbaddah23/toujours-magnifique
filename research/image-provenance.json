@@ -1,0 +1,132 @@
+[
+  {
+    "file": "/images/collection-01.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-01.jpg",
+    "sha256": "6b68c6ea702b1d675001f879412fa2b0c0bc948098673719bb38c3ff1071a586",
+    "originalDimensions": [
+      1440,
+      1847
+    ],
+    "webDimensions": [
+      1325,
+      1700
+    ]
+  },
+  {
+    "file": "/images/collection-02.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-02.jpg",
+    "sha256": "200feda7aa76c133040d72623770e43e8030bf8a00cdad8dd475e6f2ca33e8a9",
+    "originalDimensions": [
+      1440,
+      1575
+    ],
+    "webDimensions": [
+      1440,
+      1575
+    ]
+  },
+  {
+    "file": "/images/collection-03.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-03.jpg",
+    "sha256": "09b50dc386915d8a015b05a7d3e421c73123e049255cd2f16549e67f68c6ad30",
+    "originalDimensions": [
+      1440,
+      1575
+    ],
+    "webDimensions": [
+      1440,
+      1575
+    ]
+  },
+  {
+    "file": "/images/collection-04.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-04.jpg",
+    "sha256": "aac41211c0fe3cbdacca5b9c52b6b218518764b360ed84a720d73d16ba012b1b",
+    "originalDimensions": [
+      1440,
+      1440
+    ],
+    "webDimensions": [
+      1440,
+      1440
+    ]
+  },
+  {
+    "file": "/images/collection-05.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-07.jpg",
+    "sha256": "7d52952d93fc622e3e52bca9d748236909b3d4be900eac0754cb7853c19dc939",
+    "originalDimensions": [
+      1440,
+      1440
+    ],
+    "webDimensions": [
+      1440,
+      1440
+    ]
+  },
+  {
+    "file": "/images/collection-06.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-06.jpg",
+    "sha256": "a71e345153c19980c07a9db785ace033f6cffc79227f226add2dc6e5cc15793f",
+    "originalDimensions": [
+      1440,
+      1440
+    ],
+    "webDimensions": [
+      1440,
+      1440
+    ]
+  },
+  {
+    "file": "/images/collection-07.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-08.jpg",
+    "sha256": "1a8622c5734e0a2258537e80b3cf49536f24922949ff58e59c9be483bf01c238",
+    "originalDimensions": [
+      1440,
+      1440
+    ],
+    "webDimensions": [
+      1440,
+      1440
+    ]
+  },
+  {
+    "file": "/images/collection-08.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-09.jpg",
+    "sha256": "8e36455368c30f273d965ea02b4464d1fb651dc64fef87985141c8d05676de68",
+    "originalDimensions": [
+      1440,
+      1440
+    ],
+    "webDimensions": [
+      1440,
+      1440
+    ]
+  },
+  {
+    "file": "/images/collection-09.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-10.jpg",
+    "sha256": "4f6f64f02cacf431d327c6a1b06d740e0174c39c290556d3a824b031692408f4",
+    "originalDimensions": [
+      1440,
+      1440
+    ],
+    "webDimensions": [
+      1440,
+      1440
+    ]
+  },
+  {
+    "file": "/images/collection-10.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-11.jpg",
+    "sha256": "7748c977bbace76c113b74e6926ab03f5ed3f7e2cdc6db75a833debdff0b4a22",
+    "originalDimensions": [
+      1440,
+      1440
+    ],
+    "webDimensions": [
+      1440,
+      1440
+    ]
+  }
+]

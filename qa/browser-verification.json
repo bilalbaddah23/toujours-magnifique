@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-16",
+  "checks": [
+    "Collection live search, empty state and category filter",
+    "Saved favourite survives reload",
+    "Global search suggestions",
+    "Product photos and zoom",
+    "Bag add and quantity persistence",
+    "Required-field feedback; enquiry prepared with correct contact and no invented total",
+    "Copy/edit draft; style finder with correct contact",
+    "Gallery filtering, photo navigation and Escape",
+    "Bag increase/remove and clear favourites"
+  ],
+  "item": {
+    "name": "Zebra Outfit Edit",
+    "href": "/product/zebra-outfit"
+  },
+  "responsive": [
+    {
+      "route": "/",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/shop",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/product/zebra-outfit",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/lookbook",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/contact",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/checkout",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    }
+  ],
+  "additional360": {
+    "scrollWidth": 345,
+    "width": 360
+  },
+  "desktop": {
+    "heroLoaded": true,
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  "result": "PASS",
+  "consoleErrors": [],
+  "screenshots": [
+    "desktop-home.png",
+    "mobile-home.png"
+  ],
+  "scope": "Local compiled ASP.NET10 release. No external messages sent, payments or VPS/IIS deployment."
+}

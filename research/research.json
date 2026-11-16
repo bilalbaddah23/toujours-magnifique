@@ -1,0 +1,334 @@
+{
+  "brand": "Toujours Magnifique",
+  "handle": "toujours.magnifique",
+  "phone": "96178811644",
+  "displayPhone": "+961 78 811 644",
+  "instagram": "https://www.instagram.com/toujours.magnifique/",
+  "contactMode": "whatsapp",
+  "hours": "Confirm with the boutique",
+  "followersObserved": 15886,
+  "followersDisplay": "15.8K",
+  "postCountObserved": null,
+  "latestVisiblePost": "2026-11-15",
+  "researchDate": "2026-11-15",
+  "profileBio": "Shoes & Clothing | Concept by Toujours Magnifique\nDekwaneh – slave street – face BOB\nDelivery across all Lebanon\nElegance",
+  "bioLinks": [
+    "https://wa.me/+96178811644"
+  ],
+  "branches": [
+    {
+      "name": "Dekwaneh, Lebanon — opposite BOB, as listed in the public bio",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Toujours+Magnifique+Dekwaneh+Lebanon"
+    }
+  ],
+  "about": "Toujours Magnifique is a shoes and clothing boutique in Dekwaneh, Lebanon. Its public collection includes statement boots, seasonal jackets and coordinated looks, with delivery across Lebanon and enquiries through WhatsApp.",
+  "heroImage": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-07.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-06.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-01.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-02.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-03.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-04.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-06.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-07.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-08.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-09.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-10.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-11.jpg"
+  ],
+  "products": [
+    {
+      "id": "zebra-outfit",
+      "name": "Zebra Outfit Edit",
+      "category": "Coordinated looks",
+      "description": "Zebra-pattern jacket and skirt styling shown in the boutique’s public photo collection. Confirm the pictured pieces, materials, measurements, current price, colour and availability with the boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-01.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/toujours.magnifique/p/DfwTRv0gjqm/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "glossy-platform-boots",
+      "name": "Glossy Buckle Platform Boots",
+      "category": "Boots",
+      "description": "Glossy black knee-high platform boots with buckled straps shown in the public collection. Confirm the pictured pieces, materials, measurements, current price, colour and availability with the boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-02.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/toujours.magnifique/p/DfwSy-hACfl/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "matte-buckle-boots",
+      "name": "Matte Buckle Boots",
+      "category": "Boots",
+      "description": "Matte black knee-high boots with buckled straps shown as an alternate footwear style. Confirm the pictured pieces, materials, measurements, current price, colour and availability with the boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-03.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/toujours.magnifique/p/DfwSy-hACfl/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "contrast-collar-utility-jacket",
+      "name": "Contrast-Collar Utility Jacket",
+      "category": "Jackets",
+      "description": "Olive utility-style jacket with a contrasting dark collar and pocket details. Confirm the pictured pieces, materials, measurements, current price, colour and availability with the boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/toujours.magnifique/p/Dfu4kT1gP7R/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "striped-bomber-jacket",
+      "name": "Striped Bomber Jacket",
+      "category": "Jackets",
+      "description": "Black cropped zip-front bomber jacket with light stripes along the sleeves; front, rear and garment-only views are grouped together. Confirm the pictured pieces, materials, measurements, current price, colour and availability with the boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-07.jpg",
+        "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-06.jpg",
+        "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/toujours.magnifique/p/DfumZ7NgFC9/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "plush-trim-coat",
+      "name": "Plush-Trim Coat Edit",
+      "category": "Coats",
+      "description": "Cream, brown and red styling views show the plush-collar and cuff coat silhouette. Confirm each colourway and whether the pictured trousers are included. Confirm the pictured pieces, materials, measurements, current price, colour and availability with the boutique. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-09.jpg",
+        "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-10.jpg",
+        "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/toujours.magnifique/p/DfuOTd-ADdN/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    }
+  ],
+  "assets": [
+    {
+      "alt": "Photo by Toujours magnifique on November 14, 2026. May be an image of sleepwear, coat, top and text.",
+      "height": 1847,
+      "width": 1440,
+      "sourcePost": "https://www.instagram.com/toujours.magnifique/p/DfwTRv0gjqm/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-01.jpg",
+      "sha256": "6b68c6ea702b1d675001f879412fa2b0c0bc948098673719bb38c3ff1071a586",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/906611985_17997118122060033_6293231631334427381_n.webp?_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMDgwNjQ0ODk1ODIyNTA2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=K9w0Gq3ysP8Q7kNvwFepdZ5&_nc_oc=Adrk0c3I04W21ASoekdwMeZQUr_7P9XZ3WVD6hjHCfi1LexEETTMxmp2LsknKZibEq8&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=UH9T0mLK3VAmVuqZ9_xG8w&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSaJzG0t9ZCLAdNLCR3rBxZZHHpW5GWKCfYODlbBFxITw&oe=6AFFF083",
+      "observedDate": "2026-11-15",
+      "sourceImageType": "Instagram public photo/carousel still",
+      "aiLabelObserved": false,
+      "postDate": "2026-11-14",
+      "observationMethod": "Rendered public Instagram permalink DOM; actual photo elements outside related-post links, native image URLs and dimensions recorded. Contact sheet visually inspected.",
+      "photographicAuthenticity": "Public-source catalogue/model image. No explicit AI label observed; original photographic authenticity and ownership not independently established."
+    },
+    {
+      "alt": "Photo by Toujours magnifique on November 14, 2026. May be an image of boots, high-heeled shoes and text.",
+      "height": 1575,
+      "width": 1440,
+      "sourcePost": "https://www.instagram.com/toujours.magnifique/p/DfwSy-hACfl/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-02.jpg",
+      "sha256": "200feda7aa76c133040d72623770e43e8030bf8a00cdad8dd475e6f2ca33e8a9",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/902586012_17997117858060033_102990806335248105_n.webp?_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMDgwNDI4MTYwMjA0Nzc5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xhKncQwt_xAQ7kNvwH1p09o&_nc_oc=AdqImZSC6JrToQ_64NICVTWScft1R_Z1T1lrzlK1MDaYy7aOqfhFGJlHlnRaFeb4pR4&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=Zq7qRuLy21iqOI_Emxl0KA&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRne-jecBVhHlrhRO8UqKz5Yo860WSnI3v0bVqX_MfJXw&oe=6B00021B",
+      "observedDate": "2026-11-15",
+      "sourceImageType": "Instagram public photo/carousel still",
+      "aiLabelObserved": false,
+      "postDate": "2026-11-14",
+      "observationMethod": "Rendered public Instagram permalink DOM; actual photo elements outside related-post links, native image URLs and dimensions recorded. Contact sheet visually inspected.",
+      "photographicAuthenticity": "Public-source catalogue/model image. No explicit AI label observed; original photographic authenticity and ownership not independently established."
+    },
+    {
+      "alt": "Photo by Toujours magnifique on November 14, 2026. May be an image of leather, high-heeled shoes, boots and text.",
+      "height": 1575,
+      "width": 1440,
+      "sourcePost": "https://www.instagram.com/toujours.magnifique/p/DfwSy-hACfl/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-03.jpg",
+      "sha256": "09b50dc386915d8a015b05a7d3e421c73123e049255cd2f16549e67f68c6ad30",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/902585969_17997117867060033_798714557764551089_n.webp?_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMDgwNDI4NDYzMDI1Njk0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=0qpCO0jWTMEQ7kNvwFDGUWk&_nc_oc=Adree9AfXueYqNs99vDMA3_gJqnnWFmnBwazOlUgJtb0WmKlGFJluPQpuGr9RvNyetU&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=Zq7qRuLy21iqOI_Emxl0KA&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQyIjkjIN-zmHj6Jauwu8PBwEd8o0mkaonByIqKnYrspQ&oe=6B0000C5",
+      "observedDate": "2026-11-15",
+      "sourceImageType": "Instagram public photo/carousel still",
+      "aiLabelObserved": false,
+      "postDate": "2026-11-14",
+      "observationMethod": "Rendered public Instagram permalink DOM; actual photo elements outside related-post links, native image URLs and dimensions recorded. Contact sheet visually inspected.",
+      "photographicAuthenticity": "Public-source catalogue/model image. No explicit AI label observed; original photographic authenticity and ownership not independently established."
+    },
+    {
+      "alt": "Photo by Toujours magnifique on November 14, 2026. May be an image of leather, fur coat, parka, jacket and text.",
+      "height": 1440,
+      "width": 1440,
+      "sourcePost": "https://www.instagram.com/toujours.magnifique/p/Dfu4kT1gP7R/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-04.jpg",
+      "sha256": "aac41211c0fe3cbdacca5b9c52b6b218518764b360ed84a720d73d16ba012b1b",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/905299611_17997032607060033_1532926413644166390_n.webp?_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMDQwNzQ2NDEwNDAzMDgwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=f_R62se4CLQQ7kNvwE0h5pX&_nc_oc=AdoZJoT5u5bf3PU5ULvy_nOf2sPK2ZKw6qWiI7tJo9soVM3h9MT9WvYG4eokP859AQo&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=vOO6OKCnBb2WpogzZ64fvA&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSC14oaCQwSkoBZfki0q5ZiVCr_lI_EEq536pP7EBUG5A&oe=6B00076A",
+      "observedDate": "2026-11-15",
+      "sourceImageType": "Instagram public photo/carousel still",
+      "aiLabelObserved": false,
+      "postDate": "2026-11-14",
+      "observationMethod": "Rendered public Instagram permalink DOM; actual photo elements outside related-post links, native image URLs and dimensions recorded. Contact sheet visually inspected.",
+      "photographicAuthenticity": "Public-source catalogue/model image. No explicit AI label observed; original photographic authenticity and ownership not independently established."
+    },
+    {
+      "alt": "Photo by Toujours magnifique on November 14, 2026. May be an image of parka, flight jacket and text.",
+      "height": 1440,
+      "width": 1440,
+      "sourcePost": "https://www.instagram.com/toujours.magnifique/p/DfumZ7NgFC9/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-06.jpg",
+      "sha256": "a71e345153c19980c07a9db785ace033f6cffc79227f226add2dc6e5cc15793f",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/902585800_17997012732060033_2610059923486817860_n.webp?_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMDMyNzU3NDQ1NzU3MDg2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=fj2E2sZ2rWcQ7kNvwHKXG7_&_nc_oc=AdohU4RRdFxzLSKlBiKSdak2PtjAyIKFg_kOqltvLSjjTKi7ZNlJJUBSMVc416E5gks&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=WfFlZkcK0DPciBd2znsIEQ&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTaxTypw4Xij-e_TIxyR9UQ1UISNj4pz3icWBlHCtjDFg&oe=6AFFE8AC",
+      "observedDate": "2026-11-15",
+      "sourceImageType": "Instagram public photo/carousel still",
+      "aiLabelObserved": false,
+      "postDate": "2026-11-14",
+      "observationMethod": "Rendered public Instagram permalink DOM; actual photo elements outside related-post links, native image URLs and dimensions recorded. Contact sheet visually inspected.",
+      "photographicAuthenticity": "Public-source catalogue/model image. No explicit AI label observed; original photographic authenticity and ownership not independently established."
+    },
+    {
+      "alt": "Photo by Toujours magnifique on November 14, 2026. May be an image of coat, flight jacket, sunglasses, turtleneck, top and text.",
+      "height": 1440,
+      "width": 1440,
+      "sourcePost": "https://www.instagram.com/toujours.magnifique/p/DfumZ7NgFC9/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-07.jpg",
+      "sha256": "7d52952d93fc622e3e52bca9d748236909b3d4be900eac0754cb7853c19dc939",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/902585812_17997012741060033_6093236751365657629_n.webp?_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMDMyNzU3NzgyOTc1OTg2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nivJFU49U_UQ7kNvwEafOYJ&_nc_oc=AdpPKh68G_pVlpHcjz8y3SUxEP9i951BJBiBCeQcqW667bLjGzb2Laezyya_6THiyfw&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=WfFlZkcK0DPciBd2znsIEQ&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRFw90_4_dY6XubuhqNmsTllLKT5rluC_YfLsGNRornUQ&oe=6B0005E1",
+      "observedDate": "2026-11-15",
+      "sourceImageType": "Instagram public photo/carousel still",
+      "aiLabelObserved": false,
+      "postDate": "2026-11-14",
+      "observationMethod": "Rendered public Instagram permalink DOM; actual photo elements outside related-post links, native image URLs and dimensions recorded. Contact sheet visually inspected.",
+      "photographicAuthenticity": "Public-source catalogue/model image. No explicit AI label observed; original photographic authenticity and ownership not independently established."
+    },
+    {
+      "alt": "Photo by Toujours magnifique on November 14, 2026. May be an image of parka, flight jacket, coat and text.",
+      "height": 1440,
+      "width": 1440,
+      "sourcePost": "https://www.instagram.com/toujours.magnifique/p/DfumZ7NgFC9/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-08.jpg",
+      "sha256": "1a8622c5734e0a2258537e80b3cf49536f24922949ff58e59c9be483bf01c238",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/902585835_17997012750060033_8449281820511765571_n.webp?_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMDMyNzU4MDY4MTk5MTY1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=obZBL5Lb6HcQ7kNvwE903-7&_nc_oc=Adq0q6ZnH5QYzOt6SY703mgxKXQBjsUTY4g1KdOc7A3DNgIAygBGpevvPfLsJBQKLE8&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=WfFlZkcK0DPciBd2znsIEQ&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTEHoiieLJx24dTfR95xZ0QVOxwVYCIUmyEcciWgPhJjA&oe=6B001115",
+      "observedDate": "2026-11-15",
+      "sourceImageType": "Instagram public photo/carousel still",
+      "aiLabelObserved": false,
+      "postDate": "2026-11-14",
+      "observationMethod": "Rendered public Instagram permalink DOM; actual photo elements outside related-post links, native image URLs and dimensions recorded. Contact sheet visually inspected.",
+      "photographicAuthenticity": "Public-source catalogue/model image. No explicit AI label observed; original photographic authenticity and ownership not independently established."
+    },
+    {
+      "alt": "Photo by Toujours magnifique on November 14, 2026. May be an image of sable coat, overcoat, jacket, parka and text.",
+      "height": 1440,
+      "width": 1440,
+      "sourcePost": "https://www.instagram.com/toujours.magnifique/p/DfuOTd-ADdN/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-09.jpg",
+      "sha256": "8e36455368c30f273d965ea02b4464d1fb651dc64fef87985141c8d05676de68",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/902585795_17996987433060033_7549057718697159589_n.webp?_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMDIyMTU4NjkyOTAxNDcwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hsZFZcUhnegQ7kNvwFIBG3I&_nc_oc=AdquCYqYt6XzBR-obuFqEgZKX7lbCNYweACTNLlNipPVDwjaPpjDUDfV2SLsnhK77UQ&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=lQyU9nekG9c_VlzEFxXmdQ&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQR5YwU1A3Ux2r_4EZiHtug5uGBqpz-SuGCVwu6EK4Ysxg&oe=6B00150B",
+      "observedDate": "2026-11-15",
+      "sourceImageType": "Instagram public photo/carousel still",
+      "aiLabelObserved": false,
+      "postDate": "2026-11-14",
+      "observationMethod": "Rendered public Instagram permalink DOM; actual photo elements outside related-post links, native image URLs and dimensions recorded. Contact sheet visually inspected.",
+      "photographicAuthenticity": "Public-source catalogue/model image. No explicit AI label observed; original photographic authenticity and ownership not independently established."
+    },
+    {
+      "alt": "Photo by Toujours magnifique on November 14, 2026. May be an image of sable coat, goosedown coat, overcoat, parka and text.",
+      "height": 1440,
+      "width": 1440,
+      "sourcePost": "https://www.instagram.com/toujours.magnifique/p/DfuOTd-ADdN/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-10.jpg",
+      "sha256": "4f6f64f02cacf431d327c6a1b06d740e0174c39c290556d3a824b031692408f4",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/902585787_17996987454060033_7575145835376080668_n.webp?_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMDIyMTU5MDgwNDM5Njc2MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MuK1_w9-H3UQ7kNvwFDM_Ht&_nc_oc=AdqwK_9L63fKfTqApgMiEnJGD1FIEJmfZldHk693MXJq72rJDad-AQZNOPFbEPXVhFg&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=lQyU9nekG9c_VlzEFxXmdQ&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSQL3eOOoXxuXBLifWOeol3nArdu9maVymxFhH8JhEFkw&oe=6AFFE15D",
+      "observedDate": "2026-11-15",
+      "sourceImageType": "Instagram public photo/carousel still",
+      "aiLabelObserved": false,
+      "postDate": "2026-11-14",
+      "observationMethod": "Rendered public Instagram permalink DOM; actual photo elements outside related-post links, native image URLs and dimensions recorded. Contact sheet visually inspected.",
+      "photographicAuthenticity": "Public-source catalogue/model image. No explicit AI label observed; original photographic authenticity and ownership not independently established."
+    },
+    {
+      "alt": "Photo by Toujours magnifique on November 14, 2026. May be an image of sable coat, jumpsuit, parka and text.",
+      "height": 1440,
+      "width": 1440,
+      "sourcePost": "https://www.instagram.com/toujours.magnifique/p/DfuOTd-ADdN/",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\toujours-magnifique\\images\\toujours-11.jpg",
+      "sha256": "7748c977bbace76c113b74e6926ab03f5ed3f7e2cdc6db75a833debdff0b4a22",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/902585795_17996987445060033_4664632808383867016_n.webp?_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMDIyMTU5NDAwMDQ3MzQ1MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hF_-esGz0jsQ7kNvwGq_tKi&_nc_oc=AdqF6kanf3G3_n_OoIyYLYyfZicrgkTSoZ1SL6i6bujISEqKRbGR5vYmchLl30mEsdk&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=lQyU9nekG9c_VlzEFxXmdQ&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRh9rfOiC18xvTdbGtr2W_654zkqbh5wL0BIMdLr6xlXQ&oe=6AFFF27F",
+      "observedDate": "2026-11-15",
+      "sourceImageType": "Instagram public photo/carousel still",
+      "aiLabelObserved": false,
+      "postDate": "2026-11-14",
+      "observationMethod": "Rendered public Instagram permalink DOM; actual photo elements outside related-post links, native image URLs and dimensions recorded. Contact sheet visually inspected.",
+      "photographicAuthenticity": "Public-source catalogue/model image. No explicit AI label observed; original photographic authenticity and ownership not independently established."
+    }
+  ],
+  "websiteScreening": {
+    "result": "No matching official website found in the checked public sources; an unlisted site cannot be ruled out.",
+    "checkedDate": "2026-11-15",
+    "primaryEvidence": [
+      "Expanded/visible public Instagram biography identifies shoes/clothing in Dekwaneh, Lebanon.",
+      "Only external bio link observed was https://wa.me/+96178811644. No Maps link or shop-domain link was present.",
+      "Public profile has 15,886 followers and a Reel dated November15,2026; multiple still-photo posts dated November14."
+    ],
+    "queries": [
+      "\"toujours.magnifique\" website",
+      "\"Toujours Magnifique\" Lebanon shoes",
+      "\"96178811644\"",
+      "\"Toujours Magnifique\" \"Dekwaneh\"",
+      "\"Toujours Magnifique\" \"78\" \"Lebanon\""
+    ],
+    "falseMatches": [
+      {
+        "url": "https://www.orrero.com/",
+        "reason": "French-language haircare subscription-box business uses slogan Toujours Magnifique; different products and no observed matching Lebanese fashion identity/contact."
+      }
+    ],
+    "limitations": [
+      "No confirmed Google Maps business listing found through bounded searches.",
+      "Public Instagram profile exposes a limited recent-post grid without login.",
+      "Website absence cannot be established with certainty."
+    ]
+  },
+  "contentLimitations": [
+    "No prices, current stock, sizes or material certifications were inferred.",
+    "Maps link is a search by business/locality, not a verified precise pin.",
+    "Public model/catalogue images may be retouched or synthetic; no explicit AI labels were visible and no imagery was generated or video frames extracted for this task.",
+    "No story images or private content used."
+  ],
+  "excludedAssets": [
+    {
+      "file": "toujours-05.jpg",
+      "reason": "Composite collage with repeated model photograph and rack view; omitted from website."
+    },
+    {
+      "file": "toujours-12.jpg",
+      "reason": "Decorative promotional boot scene appears digitally assembled; omitted."
+    },
+    {
+      "file": "toujours-13.jpg",
+      "reason": "Order-now promotional shop snapshot; omitted from collection."
+    }
+  ]
+}

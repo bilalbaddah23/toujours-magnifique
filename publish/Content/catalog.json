@@ -1,0 +1,137 @@
+{
+  "brand": "Toujours Magnifique",
+  "contactMode": "whatsapp",
+  "phone": "96178811644",
+  "displayPhone": "+961 78 811 644",
+  "instagram": "https://www.instagram.com/toujours.magnifique/",
+  "hours": "Confirm with the boutique",
+  "hero": "/images/collection-05.jpg",
+  "story": "/images/collection-06.jpg",
+  "galleryImages": [
+    "/images/collection-01.jpg",
+    "/images/collection-02.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-06.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-09.jpg",
+    "/images/collection-10.jpg"
+  ],
+  "products": [
+    {
+      "id": "zebra-outfit",
+      "name": "Zebra Outfit Edit",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Zebra-pattern jacket and skirt styling shown in the boutique’s public photo collection. Confirm the pictured pieces, materials, measurements, current price, colour and availability with the boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-01.jpg"
+      ],
+      "source": "https://www.instagram.com/toujours.magnifique/p/DfwTRv0gjqm/"
+    },
+    {
+      "id": "glossy-platform-boots",
+      "name": "Glossy Buckle Platform Boots",
+      "collection": "Boots",
+      "audience": "The edit",
+      "family": "",
+      "description": "Glossy black knee-high platform boots with buckled straps shown in the public collection. Confirm the pictured pieces, materials, measurements, current price, colour and availability with the boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-02.jpg"
+      ],
+      "source": "https://www.instagram.com/toujours.magnifique/p/DfwSy-hACfl/"
+    },
+    {
+      "id": "matte-buckle-boots",
+      "name": "Matte Buckle Boots",
+      "collection": "Boots",
+      "audience": "The edit",
+      "family": "",
+      "description": "Matte black knee-high boots with buckled straps shown as an alternate footwear style. Confirm the pictured pieces, materials, measurements, current price, colour and availability with the boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-03.jpg"
+      ],
+      "source": "https://www.instagram.com/toujours.magnifique/p/DfwSy-hACfl/"
+    },
+    {
+      "id": "contrast-collar-utility-jacket",
+      "name": "Contrast-Collar Utility Jacket",
+      "collection": "Jackets",
+      "audience": "The edit",
+      "family": "",
+      "description": "Olive utility-style jacket with a contrasting dark collar and pocket details. Confirm the pictured pieces, materials, measurements, current price, colour and availability with the boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-04.jpg"
+      ],
+      "source": "https://www.instagram.com/toujours.magnifique/p/Dfu4kT1gP7R/"
+    },
+    {
+      "id": "striped-bomber-jacket",
+      "name": "Striped Bomber Jacket",
+      "collection": "Jackets",
+      "audience": "The edit",
+      "family": "",
+      "description": "Black cropped zip-front bomber jacket with light stripes along the sleeves; front, rear and garment-only views are grouped together. Confirm the pictured pieces, materials, measurements, current price, colour and availability with the boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-05.jpg",
+        "/images/collection-06.jpg",
+        "/images/collection-07.jpg"
+      ],
+      "source": "https://www.instagram.com/toujours.magnifique/p/DfumZ7NgFC9/"
+    },
+    {
+      "id": "plush-trim-coat",
+      "name": "Plush-Trim Coat Edit",
+      "collection": "Coats",
+      "audience": "The edit",
+      "family": "",
+      "description": "Cream, brown and red styling views show the plush-collar and cuff coat silhouette. Confirm each colourway and whether the pictured trousers are included. Confirm the pictured pieces, materials, measurements, current price, colour and availability with the boutique. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-08.jpg",
+        "/images/collection-09.jpg",
+        "/images/collection-10.jpg"
+      ],
+      "source": "https://www.instagram.com/toujours.magnifique/p/DfuOTd-ADdN/"
+    }
+  ],
+  "services": [],
+  "branches": [
+    {
+      "name": "Dekwaneh, Lebanon — opposite BOB, as listed in the public bio",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Toujours+Magnifique+Dekwaneh+Lebanon"
+    }
+  ]
+}
